@@ -486,32 +486,32 @@ function Portfolio() {
   // Dummy nail art images from Unsplash (free, no auth needed)
   const items = [
     {
-      img: "/Portofolio/Nailart 1.jpg",
+      img: "/Portofolio/Nailart 11.jpg",
       label: "French Glam",
       tag: "Classic",
     },
     {
-      img: "/Portofolio/Nailart 2.jpg",
+      img: "/Portofolio/Nailart 22.jpg",
       label: "3D Florals",
       tag: "Artistic",
     },
     {
-      img: "/Portofolio/nailart 3.jpg",
+      img: "/Portofolio/nailart 33.jpg",
       label: "Nude Ombré",
       tag: "Elegant",
     },
     {
-      img: "/Portofolio/Nailart 4.jpg",
+      img: "/Portofolio/Nailart 44.jpg",
       label: "Gold Chrome",
       tag: "Luxury",
     },
     {
-      img: "/Portofolio/Nailart 5.jpg",
+      img: "/Portofolio/Nailart 55.jpg",
       label: "Gel Extension",
       tag: "Premium",
     },
     {
-      img: "/Portofolio/Nailart 6.jpg",         
+      img: "/Portofolio/Nailart 66.jpg",         
       label: "Abstract Art",
       tag: "Creative",
     },
