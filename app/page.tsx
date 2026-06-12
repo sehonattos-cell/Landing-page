@@ -496,7 +496,7 @@ function Portfolio() {
       tag: "Artistic",
     },
     {
-      img: "/Portofolio/nailart 33.jpg",
+      img: "/Portofolio/Nailart 33.jpg",
       label: "Nude Ombré",
       tag: "Elegant",
     },
