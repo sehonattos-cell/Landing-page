@@ -61,8 +61,19 @@ function Reveal({
 }
 
 /* ── Sparkle SVG ──────────────────────────────────────────────────────────── */
-const SparkSVG = ({ className = "" }: { className?: string }) => (
-  <svg className={className} viewBox="0 0 24 24" fill="currentColor">
+const SparkSVG = ({
+  className = "",
+  style,
+}: {
+  className?: string;
+  style?: React.CSSProperties;
+}) => (
+  <svg
+    className={className}
+    style={style}
+    viewBox="0 0 24 24"
+    fill="currentColor"
+  >
     <path d="M12 1 L13.8 10.2 L23 12 L13.8 13.8 L12 23 L10.2 13.8 L1 12 L10.2 10.2 Z" />
   </svg>
 );
